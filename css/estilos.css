@@ -1,13 +1,18 @@
 body{
   text-align: center;
   font-family: arial;
-  color: red;
+  color: black;
   font-size: 16px;
   padding: 0;
   margin: 0;
 }
 #Cabecera{
-  font-size: 28px
+  background: #33A;
+  font-size: 25px;
+  color: white;
+  text-align: left;
+  margin: 0;
+  padding: 0.5em;
 }
 
 #container{
