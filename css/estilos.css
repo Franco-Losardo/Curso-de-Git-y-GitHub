@@ -15,11 +15,6 @@ body{
   padding: 0.5em;
 }
 
-#Cabecera #logo{
-  width: 100px;
-  vertical-align: middle;
-
-}
 #container{
   text-align: center;
   width: 70%;
@@ -31,4 +26,10 @@ body{
 #container h1{
 
   font-size: 50px;
+}
+
+#Cabecera #logo{
+  width: 100px;
+  vertical-align: middle;
+
 }
