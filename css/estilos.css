@@ -14,10 +14,11 @@ body{
   margin: 0;
   padding: 0.5em;
 }
-
-#Cabecera #logo{
-  width: 100px;
-  vertical-align: middle;
+#footer{
+  color: white;
+  background: #777;
+  text-align: center;
+  padding: 0.5em;
 
 }
 #container{
